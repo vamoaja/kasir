@@ -1,0 +1,6 @@
+                        <div class="input-group my-3">
+                            <input type="" placeholder="NISN Kamu" name="nisn" class="form-control"
+                                aria-describedby="addon">
+                            <button type="submit" class="btn btn-primary" id="addon"><i
+                                    class="fa fa-search"></i></button>
+                        </div>
